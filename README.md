@@ -3,7 +3,9 @@
 
 <p align="center">
   <a href="./Odoo19-%20Certification.pdf" target="_blank">
-    <img src="./Odoo19-Certification.png" alt="Building Your Website with Odoo 19 Certificate" width="600"/>
+
+<img src="./Odoo19-Certification.png" alt="Building Your Website with Odoo 19 Certificate" width="600"/>
+alt="Building Your Website with Odoo 19 Certificate" width="600"/>
   </a>
   <br>
   <sub>📄 <i>Click the image to view or download the full resolution PDF.</i></sub>
