@@ -2,7 +2,8 @@
 
 <p align="center">
   <a href="./2027-ICPC Syrian Private U CPC-Wasan Al Sayah-PLACE.pdf" target="_blank">
-    <img src="./ICPC Syrian Private U CPC-Wasan Al Sayah-PLACE.jpg" alt="ICPC Certificate" width="600"/>
+    <img src="./ICPC Syrian Private U CPC-Wasan Al Sayah-PLACE.jpg-2027" alt="ICPC Certificate" width="600"/>
+
   </a>
   <br>
   <sub>📄 <i>Click the image to view or download the full resolution PDF.</i></sub>
