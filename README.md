@@ -19,6 +19,7 @@
 
 
 
+
 ### 🎓 Certificate of Completion: Building Your Website with Odoo 19
 
 <p align="center">
