@@ -8,11 +8,12 @@
   <sub>📄 <i>Click the image to view or download the full resolution PDF.</i></sub>
 </p>
 
-* **Event:** The 2026 ICPC Syrian Private Universities Collegiate Programming Contest (21-22 August 2026)[span_0](start_span)[span_0](end_span)
-* **Recipient:** Wasan Al Sayah (Al-Sham Private University)[span_1](start_span)[span_1](end_span)
+* **Event:** The 2026 ICPC Syrian Private Universities Collegiate Programming Contest (21-22 August 2026)[span_1](start_span)[span_1](end_span)
+* **Recipient:** Wasan Al Sayah (Al-Sham Private University)[span_2](start_span)[span_2](end_span)
 * **Description:** Awarded an Honorable Mention in recognition of competitive programming skills, algorithmic problem-solving capabilities, and teamwork under intense contest conditions.
 
 ---
+
 
 
 
